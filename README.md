@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Saisaran Parthasarathy</h1>
+<h3 align="center">SDET | QA Automation Engineer | 5+ Years across French and Indian Tech</h3>
 
-<!--
-**Sanu-partha/Sanu-partha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+- 🔭 Check out my [Portfolio](https://saisaraninfo.website)
+- 🌱 Currently strengthening DSA fundamentals in Java, Python and building AI-powered test automation workflows
+- 💼 Open to SDET / QA Automation roles
+- ⚡ Fun fact: I speak English, Tamil, and French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 🧪 I automate with
+
+<p>
+  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />&nbsp;&nbsp;&nbsp;     
+</p>
+
+### 💻 I code in
+
+<p>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="48" height="48" title="Java"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/python.png" width="48" height="48" title="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/typescript.png" width="48" height="48" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/77881dee-fabc-42bf-a529-79c41e74a117" />
+
+</p>
+
+<br/>
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [playwright-saucedemo](https://github.com/Sanu-partha/playwright-saucedemo) | E2E test automation suite with POM, fixtures, and GitHub Actions CI | Playwright, TypeScript |
+| [ielts365](https://github.com/Sanu-partha/ielts365) | Daily IELTS vocabulary emails via GitHub Actions | Python, GitHub Actions |
+| [french365](https://github.com/Sanu-partha/French-A1-word-generator) | Daily French A1 vocabulary emails with conjugation tables | Python, GitHub Actions |
+
+<br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/CoVoKOnitJ?ext=contest&theme=dark)](https://leetcode.com/u/CoVoKOnitJ/)
+
+<br/>
+
+[![Sanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanu-partha&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/Sanu-partha)
