@@ -10,14 +10,6 @@
 
 <br/>
 
-### 🧪 I automate with
-
-<p>
-  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />&nbsp;&nbsp;&nbsp;     
-</p>
-
 ### 💻 I code in
 
 <p>
@@ -26,6 +18,15 @@
   <img src="https://img.icons8.com/color/48/typescript.png" width="48" height="48" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/77881dee-fabc-42bf-a529-79c41e74a117" />
 
+</p>
+
+
+### 🧪 I automate with
+
+<p>
+  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />&nbsp;&nbsp;&nbsp;     
 </p>
 
 <br/>
