@@ -6,7 +6,7 @@
 - 🔭 Check out my [Portfolio](https://saisaraninfo.website)
 - 🌱 Currently strengthening DSA fundamentals in Java, Python and building AI-powered test automation workflows
 - 💼 Open to SDET / QA Automation roles
-- ⚡ Fun fact: I speak English, Tamil, and French
+- ⚡ Fun fact: I speak French
 
 <br/>
 
@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="48" height="48" title="Java"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/python.png" width="48" height="48" title="Python"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/typescript.png" width="48" height="48" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/77881dee-fabc-42bf-a529-79c41e74a117" />
+  <img width="48" height="48" title="JavaScript" src="https://github.com/user-attachments/assets/77881dee-fabc-42bf-a529-79c41e74a117" />
 
 </p>
 
@@ -24,9 +24,9 @@
 ### 🧪 I automate with
 
 <p>
-  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />&nbsp;&nbsp;&nbsp;     
+  <img width="48" height="48" title="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" title="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" title="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />&nbsp;&nbsp;&nbsp;     
 </p>
 
 <br/>
