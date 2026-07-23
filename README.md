@@ -37,11 +37,3 @@
 | [playwright-saucedemo](https://github.com/Sanu-partha/playwright-saucedemo) | E2E test automation suite with POM, fixtures, and GitHub Actions CI | Playwright, TypeScript |
 | [ielts365](https://github.com/Sanu-partha/ielts365) | Daily IELTS vocabulary emails via GitHub Actions | Python, GitHub Actions |
 | [french365](https://github.com/Sanu-partha/French-A1-word-generator) | Daily French A1 vocabulary emails with conjugation tables | Python, GitHub Actions |
-
-<br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/CoVoKOnitJ?ext=contest&theme=dark)](https://leetcode.com/u/CoVoKOnitJ/)
-
-<br/>
-
-[![Sanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanu-partha&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/Sanu-partha)
