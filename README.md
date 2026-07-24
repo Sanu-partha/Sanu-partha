@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Saisaran Parthasarathy</h1>
-<h3 align="center">SDET | QA Automation Engineer | 5 Years across French and Indian Tech</h3>
+<h3 align="center">SDET | 5 Years across French and Indian Tech</h3>
 
 <br/>
 
