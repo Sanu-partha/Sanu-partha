@@ -5,7 +5,7 @@
 
 - 🔭 Check out my [Portfolio](https://saisaraninfo.website)
 - 🌱 Currently strengthening DSA fundamentals in Java, Python and building AI-powered test automation workflows
-- 💼 Open to exploring new roles in the field of Dev, AI, Tests, and DevOps.
+- 💼 Open to exploring new roles in the field of Dev, AI, and Testing
 - ⚡ Fun fact: I speak French
 
 <br/>
